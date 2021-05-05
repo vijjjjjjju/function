@@ -1,3 +1,5 @@
 Add two numbers
 prime numbers check
 Multiply two numbers
+Bubble sort
+selection sort
